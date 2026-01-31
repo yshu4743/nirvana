@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
 .video_size{
 	max-width:auto;
 	height: auto;
@@ -262,7 +263,7 @@ section {
 
 .alt {
 	flex: 1;
-	color: white;
+	color: #f2edd4;
 }
 
 .close {
@@ -3516,7 +3517,9 @@ input, select, textarea {
 			}
 
 /* Wrapper */
-
+    .bg_color{
+		background-color: #f2edd4;
+	}
 	.wrapper {
 		position: relative;
 	}
